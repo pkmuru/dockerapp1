@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/statebackend/statebackend.iml" filepath="$PROJECT_DIR$/statebackend/statebackend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/statefrontend/statefrontend.iml" filepath="$PROJECT_DIR$/statefrontend/statefrontend.iml" />
+    </modules>
+  </component>
+</project>
